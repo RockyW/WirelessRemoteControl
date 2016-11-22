@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#ffffffff</color>
+    <color name="black">#000000</color>
+    <color name="seekbar_background">#3b4448</color>
+    <color name="seekbar_progress">#62c6c7</color>
+    <color name="login_background">#fffffbf0</color>
+    <color name="bg_red">#ff8c1c1c</color>
+    <color name="bt_text_normal">#b2acaa</color>
+    <color name="bt_text_pressed">#3497db</color>
+    <color name="title_text">#888888</color>
+    <color name="normal_text">#838383</color>
+    <color name="et_tip_text">#808080</color>
+    <color name="tip_text">#5d5e5e</color>
+    <color name="channel_color">#00BFFF</color>
+    <color name="volume_color">#00BFFF</color>
+    <color name="controller_title_color">#F4C226</color>
+    <color name="appmanage_title_color">#F4C226</color>
+    <color name="emarket_title_color">#F4C226</color>
+    <color name="ipaddress_color">#F4C226</color>
+    <color name="device_color">#00BFFF</color>
+    <color name="appname_color">#00BFFF</color>
+    <color name="appcapability_color">#00BFFF</color>
+    <color name="appversion_color">#00BFFF</color>
+    <color name="tvname_color">#00BFFF</color>
+    <color name="popup_bg_color">#CECFCF</color>
+    <color name="mouse_confirm_color">#00BFFF</color>
+    <color name="mouse_menu_color">#00BFFF</color>
+    <color name="mouse_return_color">#00BFFF</color>
+    <color name="controller_search_color">#00BFFF</color>
+    <color name="popup_item_choose_color">#93989A</color>
+    <color name="popup_item_line_color">#0C5D7F</color>
+    <color name="popup_item_open_color">#FD472B</color>
+    <color name="popup_item_text_color">#007AFF</color>
+    <color name="set_title_text_color">#F4C226</color>
+    <color name="set_tag_text_color">#F4C226</color>
+    <color name="set_item_text_color">#00BFFF</color>
+    <color name="user_register_title_color">#00BFFF</color>
+    <color name="user_input_edit_color">#F4C226</color>
+    <color name="set_about_text_color">#FFFFFF</color>
+    <color name="text_color_pressed">#3497DB</color>
+
+</resources>

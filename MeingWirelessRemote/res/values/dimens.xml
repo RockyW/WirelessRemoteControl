@@ -1,0 +1,81 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="tv_name_size">15sp</dimen>
+    <dimen name="controller_title_size">15sp</dimen>
+    <dimen name="controller_title_margintop">5dp</dimen>
+    <dimen name="controller_title_marginleft">5dp</dimen>
+    <dimen name="controller_search_margintop">5dp</dimen>
+    <dimen name="controller_key_margintop">25dp</dimen>
+    <dimen name="controller_key_marginleft">18dp</dimen>
+    <dimen name="controller_key_marginright">18dp</dimen>
+    <dimen name="controller_key_back_margintop">120dp</dimen>
+    <dimen name="controller_key_exit_margintop">120dp</dimen>
+    
+    <dimen name="controller_setter_margintop">32dp</dimen>
+    <dimen name="controller_setter_marginleft">18dp</dimen>
+    <dimen name="controller_setter_marginright">18dp</dimen>
+    <dimen name="controller_mute_margintop">13dp</dimen>
+    <dimen name="controller_search_size">11dp</dimen>
+    
+    <dimen name="appmanage_item_padding">5dp</dimen>
+    <dimen name="appmanage_item_iv_marginleft">10dp</dimen>
+    <dimen name="appmanage_item_tv_marginleft">10dp</dimen>
+    <dimen name="appmanage_item_appname_size">20sp</dimen>
+    <dimen name="appmanage_item_appname_margintop">5dp</dimen>
+    <dimen name="appmanage_item_appversion_size">15sp</dimen>
+    <dimen name="emarket_item_padding">10dp</dimen>
+    <dimen name="emarket_item_appname_marginleft">10dp</dimen>
+    <dimen name="emarket_item_appname_margintop">3dp</dimen>
+    <dimen name="emarket_item_appname_size">20sp</dimen>
+    <dimen name="emarket_item_version_marginleft">10dp</dimen>
+    <dimen name="emarket_item_appversion_size">15sp</dimen>
+    <dimen name="emarket_item_appdescription_size">15sp</dimen>
+    <dimen name="emarket_item_appdescription_margintop">5sp</dimen>
+    <dimen name="appmanage_top_padding">10dp</dimen>
+    <dimen name="appmanage_title_size">20sp</dimen>
+    <dimen name="emarket_top_padding">10dp</dimen>
+    <dimen name="emarket_title_size">20sp</dimen>
+    <dimen name="mouse_title_size">20sp</dimen>
+    <dimen name="mouse_back_marginleft">15dp</dimen>
+    <dimen name="mouse_key_margintop">12dp</dimen>
+    <dimen name="mouse_confirm_marginleft">20dp</dimen>
+    <dimen name="mouse_return_marginright">20dp</dimen>
+    <dimen name="popup_item_padding">10dp</dimen>
+    <dimen name="popup_item_choose_size">15sp</dimen>
+    <dimen name="popup_item_choose_margintop">5dp</dimen>
+    <dimen name="popup_item_line_margintop">15dp</dimen>
+    <dimen name="popup_item_text_margintop">10dp</dimen>
+    <dimen name="popup_item_text_size">23sp</dimen>
+    <dimen name="appmanage_item_width">50dp</dimen>
+    <dimen name="appmanage_item_height">50dp</dimen>
+    <dimen name="rename_item_size">17sp</dimen>
+    <dimen name="rename_item_paddingtop">8dp</dimen>
+    <dimen name="rename_item_paddingbottom">8dp</dimen>
+    <dimen name="rename_paddingleft">10dp</dimen>
+    <dimen name="rename_paddingright">10dp</dimen>
+    <dimen name="rename_text_margintop">3dp</dimen>
+    <dimen name="rename_text_size">15sp</dimen>
+    <dimen name="rename_margintop">10dp</dimen>
+    <dimen name="rename_listview_height">220dp</dimen>
+    <dimen name="search_item_padding">10dp</dimen>
+    <dimen name="search_item_text_marginleft">5dp</dimen>
+    <dimen name="search_item_devicename_size">20sp</dimen>
+    <dimen name="search_item_deviceip_size">12sp</dimen>
+    <dimen name="search_padding">10dp</dimen>
+    <dimen name="search_text_margintop">5dp</dimen>
+    <dimen name="search_text_size">15sp</dimen>
+    <dimen name="search_line_margintop">10dp</dimen>
+    <dimen name="search_list_height">124dp</dimen>
+
+    <dimen name="search_button_margintop">30dp</dimen>
+    <dimen name="bind_device_item_size">17sp</dimen>
+    <dimen name="bind_device_item_paddingtop">8dp</dimen>
+    <dimen name="bind_device_item_paddingbottom">8dp</dimen>
+    <dimen name="btn_cancel_width">120dp</dimen>
+    <dimen name="btn_cancel_height">32dp</dimen>
+    <dimen name="btn_cancel_size">12sp</dimen>
+    
+</resources>
